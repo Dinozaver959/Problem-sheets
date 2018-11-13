@@ -1,0 +1,9 @@
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\obj\x86\Debug\NewtonSolverMultiDim.csprojResolveAssemblyReference.cache
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\bin\Debug\NewtonSolverMultiDim.exe
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\bin\Debug\NewtonSolverMultiDim.pdb
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\bin\Debug\MathNet.Numerics.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\bin\Debug\nunit.framework.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\bin\Debug\nunit.framework.xml
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\bin\Debug\MathNet.Numerics.xml
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\obj\x86\Debug\NewtonSolverMultiDim.exe
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\NewtonSolverMultiDim\NewtonSolverMultiDim\obj\x86\Debug\NewtonSolverMultiDim.pdb

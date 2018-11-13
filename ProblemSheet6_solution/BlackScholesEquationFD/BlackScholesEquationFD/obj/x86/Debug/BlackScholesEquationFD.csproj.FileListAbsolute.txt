@@ -1,0 +1,7 @@
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesEquationFD\bin\Debug\BlackScholesEquationFD.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesEquationFD\bin\Debug\BlackScholesEquationFD.pdb
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesEquationFD\bin\Debug\MathNet.Numerics.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesEquationFD\bin\Debug\MathNet.Numerics.xml
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesEquationFD\obj\x86\Debug\BlackScholesEquationFD.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesEquationFD\obj\x86\Debug\BlackScholesEquationFD.pdb
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesEquationFD\obj\x86\Debug\BlackScholesEquationFD.csprojResolveAssemblyReference.cache

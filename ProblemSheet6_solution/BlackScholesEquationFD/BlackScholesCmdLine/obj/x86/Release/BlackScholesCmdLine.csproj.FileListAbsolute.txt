@@ -1,0 +1,11 @@
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\BlackScholesCmdLine.exe
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\BlackScholesCmdLine.pdb
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\BlackScholesEquationFD.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\BlackScholesMC.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\MathNet.Numerics.dll
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\BlackScholesMC.pdb
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\BlackScholesEquationFD.pdb
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\bin\Release\MathNet.Numerics.xml
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\obj\x86\Release\BlackScholesCmdLine.csprojResolveAssemblyReference.cache
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\obj\x86\Release\BlackScholesCmdLine.exe
+C:\Users\dsiska\Dropbox\Documents\Edinburgh\code\csharp\BlackScholesEquationFD\BlackScholesCmdLine\obj\x86\Release\BlackScholesCmdLine.pdb

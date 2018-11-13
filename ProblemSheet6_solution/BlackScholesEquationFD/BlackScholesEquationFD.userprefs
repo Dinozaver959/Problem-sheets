@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6AA67207-A94D-450C-B4F3-84499A6F5A9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackScholesEquationFD/BlackScholesFiniteDifferenceSolver.cs">
+    <Files>
+      <File FileName="BlackScholesCmdLine/Program.cs" Line="8" Column="14" />
+      <File FileName="BlackScholesEquationFD/BlackScholesFiniteDifferenceSolver.cs" Line="183" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlackScholesCmdLine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

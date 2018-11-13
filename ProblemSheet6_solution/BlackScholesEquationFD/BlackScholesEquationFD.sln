@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackScholesEquationFD", "BlackScholesEquationFD\BlackScholesEquationFD.csproj", "{A036E09F-3D3C-4536-A685-229E0D4AA231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackScholesMC", "BlackScholesMC\BlackScholesMC.csproj", "{DBE59DC8-9091-45BC-A4B3-96A131811102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackScholesCmdLine", "BlackScholesCmdLine\BlackScholesCmdLine.csproj", "{6AA67207-A94D-450C-B4F3-84499A6F5A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA67207-A94D-450C-B4F3-84499A6F5A9F}.Debug|x86.ActiveCfg = Debug|x86
+		{6AA67207-A94D-450C-B4F3-84499A6F5A9F}.Debug|x86.Build.0 = Debug|x86
+		{6AA67207-A94D-450C-B4F3-84499A6F5A9F}.Release|x86.ActiveCfg = Release|x86
+		{6AA67207-A94D-450C-B4F3-84499A6F5A9F}.Release|x86.Build.0 = Release|x86
+		{A036E09F-3D3C-4536-A685-229E0D4AA231}.Debug|x86.ActiveCfg = Debug|x86
+		{A036E09F-3D3C-4536-A685-229E0D4AA231}.Debug|x86.Build.0 = Debug|x86
+		{A036E09F-3D3C-4536-A685-229E0D4AA231}.Release|x86.ActiveCfg = Release|x86
+		{A036E09F-3D3C-4536-A685-229E0D4AA231}.Release|x86.Build.0 = Release|x86
+		{DBE59DC8-9091-45BC-A4B3-96A131811102}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DBE59DC8-9091-45BC-A4B3-96A131811102}.Debug|x86.Build.0 = Debug|Any CPU
+		{DBE59DC8-9091-45BC-A4B3-96A131811102}.Release|x86.ActiveCfg = Release|Any CPU
+		{DBE59DC8-9091-45BC-A4B3-96A131811102}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

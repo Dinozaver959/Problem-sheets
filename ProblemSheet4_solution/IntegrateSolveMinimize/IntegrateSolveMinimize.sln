@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolversAndIntegrators", "SolversAndIntegrators\SolversAndIntegrators.csproj", "{CFE384C7-3741-42E5-B014-C764E4263639}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BD4292F7-5184-43C2-A9BA-45AC715E00BB}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE384C7-3741-42E5-B014-C764E4263639}.Debug|x86.ActiveCfg = Debug|x86
+		{CFE384C7-3741-42E5-B014-C764E4263639}.Debug|x86.Build.0 = Debug|x86
+		{CFE384C7-3741-42E5-B014-C764E4263639}.Release|x86.ActiveCfg = Release|x86
+		{CFE384C7-3741-42E5-B014-C764E4263639}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

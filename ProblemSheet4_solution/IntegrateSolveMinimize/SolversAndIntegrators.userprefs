@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{CFE384C7-3741-42E5-B014-C764E4263639}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewtonSolverMultiDim/CompositeIntegrator.cs">
+    <Files>
+      <File FileName="NewtonSolverMultiDim/NewtonSolverUnitTests.cs" Line="97" Column="75" />
+      <File FileName="NewtonSolverMultiDim/Program.cs" Line="21" Column="41" />
+      <File FileName="NewtonSolverMultiDim/NewtonSolver.cs" Line="28" Column="28" />
+      <File FileName="NewtonSolverMultiDim/packages.config" Line="1" Column="1" />
+      <File FileName="NewtonSolverMultiDim/NewtonMinimizer.cs" Line="126" Column="6" />
+      <File FileName="NewtonSolverMultiDim/CompositeIntegrator.cs" Line="126" Column="1" />
+      <File FileName="NewtonSolverMultiDim/AdaptiveCompositeIntegrator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SolversAndIntegrators PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

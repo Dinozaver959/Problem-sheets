@@ -1,0 +1,6 @@
+/Users/david/Dropbox/Documents/Edinburgh/code/csharp/BlackScholesEquationFD/BlackScholesEquationFD/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/david/Dropbox/Documents/Edinburgh/code/csharp/BlackScholesEquationFD/BlackScholesEquationFD/bin/Release/BlackScholesEquationFD.exe.mdb
+/Users/david/Dropbox/Documents/Edinburgh/code/csharp/BlackScholesEquationFD/BlackScholesEquationFD/bin/Release/BlackScholesEquationFD.exe
+/Users/david/Dropbox/Documents/Edinburgh/code/csharp/BlackScholesEquationFD/BlackScholesEquationFD/obj/x86/Release/BlackScholesEquationFD.exe
+/Users/david/Dropbox/Documents/Edinburgh/code/csharp/BlackScholesEquationFD/BlackScholesEquationFD/obj/x86/Release/BlackScholesEquationFD.exe.mdb
+/Users/david/Dropbox/Documents/Edinburgh/code/csharp/BlackScholesEquationFD/BlackScholesEquationFD/bin/Release/MathNet.Numerics.dll

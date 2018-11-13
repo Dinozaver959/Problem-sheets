@@ -1,0 +1,9 @@
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\bin\Debug\NewtonSolverMultiDim.exe
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\bin\Debug\NewtonSolverMultiDim.pdb
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\bin\Debug\MathNet.Numerics.dll
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\bin\Debug\nunit.framework.dll
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\bin\Debug\nunit.framework.xml
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\bin\Debug\MathNet.Numerics.xml
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\obj\x86\Debug\SolversAndIntegrators.csprojResolveAssemblyReference.cache
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\obj\x86\Debug\NewtonSolverMultiDim.exe
+C:\Users\gawli\Dropbox\OOOPA-WithWitold\code\IntegrateSolveMinimize\SolversAndIntegrators\obj\x86\Debug\NewtonSolverMultiDim.pdb
