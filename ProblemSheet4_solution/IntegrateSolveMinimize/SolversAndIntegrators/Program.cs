@@ -1,9 +1,6 @@
 ﻿using System;
 using MathNet.Numerics.LinearAlgebra;
 
-using MathNet.Numerics.LinearAlgebra.Solvers;
-using MathNet.Numerics.LinearAlgebra.Double.Solvers;
-
 
 namespace SolversAndIntegrators
 {
